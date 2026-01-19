@@ -7,5 +7,11 @@ Some more fixes here done less go nicce
 add another fixed in development
 add footer note
 
+<<<<<<< HEAD
 
 2026 is here 
+
+5 bug fixed
+
+
+
