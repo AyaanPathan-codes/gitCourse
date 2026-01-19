@@ -2,3 +2,6 @@ Fixes
 
 
 Some more fixes here done less go nicce
+
+
+1 more bug fixed 
