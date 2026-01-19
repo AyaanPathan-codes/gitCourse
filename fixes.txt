@@ -4,7 +4,18 @@ Fixes
 Some more fixes here done less go nicce
 
 
+<<<<<<< HEAD
 add another fixed in development
 add footer note
 
 
+=======
+1 more bug fixed 
+1 more bug fixed 
+1 more bug fixed 
+1 more bug fixed 
+1 more bug fixed 
+1 more bug fixed 
+
+5 bug fixed
+>>>>>>> bug-fix
