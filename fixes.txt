@@ -5,3 +5,6 @@ Some more fixes here done less go nicce
 
 
 add another fixed in development
+add footer note
+
+
